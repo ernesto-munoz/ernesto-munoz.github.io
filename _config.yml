@@ -30,7 +30,7 @@ twitter_username: emunozfaba
 github_username:  ernesto-munoz
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
