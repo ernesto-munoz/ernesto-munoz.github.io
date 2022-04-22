@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Check the NGons in all the meshes in the scene
 
-{% highlight python %}
+``` python
 def validate_ngons(self):
   """ Validate that there are not any object with ngons
 
@@ -39,4 +39,4 @@ def validate_ngons(self):
       "result": is_valid,
       "objects_with_ngons": objects_with_ngons
   }
-{% endhighlight %}
+``` 
